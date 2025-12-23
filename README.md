@@ -5,7 +5,7 @@
 - 🎓 I'm currently studying Computer Systems Engineering at **[ITESCA](https://www.itesca.edu.mx/)**, and graduating in **December 2025**.
 - 💻 I focus on building reliable backend systems, REST APIs, and full-stack applications using technologies like **Django**, **Django REST Framework**, **React**, and **SQL**.
 - 🤝 I’m open to collaborating on projects involving backend engineering, API development, or full-stack applications.
-- 🧩 I enjoy solving problems at **[Codeforces](https://codeforces.com/)**.
+- 🧩 I enjoy solving problems at **[omegaUp](https://omegaup.com/profile/D4C)**, **[LeetCode](https://leetcode.com/u/aguirrehdezma/)**, and **[Codeforces](https://codeforces.com/profile/aguirrehdezma)**.
 - 📫 Reach me at: **aguirrehdezma@gmail.com**
 
 ---
