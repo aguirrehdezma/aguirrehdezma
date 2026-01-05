@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Martín Alain 👋</h1>
 
-<h3 align="center">A Computer Systems Engineering student passionate about software development and modern web technologies 🇲🇽</h3>
+<h3 align="center">A Computer Systems Engineering student passionate about software development and data analysis 🇲🇽</h3>
 
 - 🎓 I'm currently studying Computer Systems Engineering at **[ITESCA](https://www.itesca.edu.mx/)**, and graduating in **December 2025**.
 - 💻 I focus on building reliable backend systems, REST APIs, and full-stack applications using technologies like **Django**, **Django REST Framework**, **React**, and **SQL**.
